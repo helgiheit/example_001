@@ -1,4 +1,4 @@
 ﻿string username = Console.ReadLine();
-Console.WhriteLine ("Привет, ");
-Console.WhriteLine (username);
+Console.WhriteLine("Привет, ");
+Console.WhriteLine(username);
 
