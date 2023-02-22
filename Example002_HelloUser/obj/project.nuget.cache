@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSjQVXAzFZS9PSUNkGcw/mfEWhdkFU3y4SAFIDUr8lhay++Gmb0GHavg/vEugdPnz7M6koAgyqN33Z5xqge3kA==",
+  "dgSpecHash": "iYAjtEMN3zqA+Vpsjj3bAJx0pFv7HIHxrOfWZ+AAbhE4R0qu2A9sY1BIM2ok6itHze+Q1DtX/zI4AZOh48KaPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\helgi\\OneDrive\\Рабочий стол\\ДЗ\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\helgi\\OneDrive\\Рабочий стол\\ДЗ\\Знакомство с языками программирования\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helgi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\helgi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\helgi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\helgi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
